@@ -1,0 +1,61 @@
+
+create table deneme (
+	id INTEGER,
+	first_name VARCHAR(50),
+	last_name VARCHAR(50),
+	email VARCHAR(100),
+	gender VARCHAR(50)
+)
+
+insert into deneme (id, first_name, last_name, email, gender) values (1, 'Keary', 'Chivrall', 'kchivrall0@amazon.co.jp', 'Male');
+insert into deneme (id, first_name, last_name, email, gender) values (2, 'Raviv', 'Pennino', 'rpennino1@about.com', 'Male');
+insert into deneme (id, first_name, last_name, email, gender) values (3, 'Henka', 'Grise', 'hgrise2@usgs.gov', 'Female');
+insert into deneme (id, first_name, last_name, email, gender) values (4, 'Chas', 'Elwel', 'celwel3@shinystat.com', 'Male');
+insert into deneme (id, first_name, last_name, email, gender) values (5, 'Phyllida', 'Dupree', 'pdupree4@ameblo.jp', 'Female');
+insert into deneme (id, first_name, last_name, email, gender) values (6, 'Garnette', 'Staniford', 'gstaniford5@nsw.gov.au', 'Female');
+insert into deneme (id, first_name, last_name, email, gender) values (7, 'Lauryn', 'Lockey', 'llockey6@tiny.cc', 'Female');
+insert into deneme (id, first_name, last_name, email, gender) values (8, 'Jilli', 'Eldredge', 'jeldredge7@hud.gov', 'Female');
+insert into deneme (id, first_name, last_name, email, gender) values (9, 'Maurise', 'De Mattei', 'mdemattei8@reverbnation.com', 'Male');
+insert into deneme (id, first_name, last_name, email, gender) values (10, 'Alina', 'Pinnigar', 'apinnigar9@gizmodo.com', 'Female');
+insert into deneme (id, first_name, last_name, email, gender) values (11, 'Monro', 'Boays', 'mboaysa@cnbc.com', 'Male');
+insert into deneme (id, first_name, last_name, email, gender) values (12, 'Winonah', 'Cabbell', 'wcabbellb@phpbb.com', 'Female');
+insert into deneme (id, first_name, last_name, email, gender) values (13, 'Roxie', 'Bounde', 'rboundec@cmu.edu', 'Female');
+insert into deneme (id, first_name, last_name, email, gender) values (14, 'Evyn', 'Sweeting', 'esweetingd@w3.org', 'Male');
+insert into deneme (id, first_name, last_name, email, gender) values (15, 'Karlis', 'Kinker', 'kkinkere@psu.edu', 'Male');
+insert into deneme (id, first_name, last_name, email, gender) values (16, 'Dale', 'Paddell', 'dpaddellf@ycombinator.com', 'Female');
+insert into deneme (id, first_name, last_name, email, gender) values (17, 'Fanechka', 'Barbery', 'fbarberyg@ed.gov', 'Female');
+insert into deneme (id, first_name, last_name, email, gender) values (18, 'Grange', 'Clines', 'gclinesh@soup.io', 'Male');
+insert into deneme (id, first_name, last_name, email, gender) values (19, 'Vonny', 'Pre', 'vprei@blogspot.com', 'Non-binary');
+insert into deneme (id, first_name, last_name, email, gender) values (20, 'Papageno', 'Brellin', 'pbrellinj@tuttocitta.it', 'Male');
+insert into deneme (id, first_name, last_name, email, gender) values (21, 'Vevay', 'Dickons', 'vdickonsk@fda.gov', 'Female');
+insert into deneme (id, first_name, last_name, email, gender) values (22, 'Natalya', 'De Filippo', 'ndefilippol@amazon.com', 'Female');
+insert into deneme (id, first_name, last_name, email, gender) values (23, 'Bartholomeo', 'Trees', 'btreesm@amazon.co.uk', 'Male');
+insert into deneme (id, first_name, last_name, email, gender) values (24, 'Lefty', 'Meugens', 'lmeugensn@booking.com', 'Male');
+insert into deneme (id, first_name, last_name, email, gender) values (25, 'Panchito', 'Chard', 'pchardo@shinystat.com', 'Male');
+insert into deneme (id, first_name, last_name, email, gender) values (26, 'Tommi', 'Lower', 'tlowerp@instagram.com', 'Polygender');
+insert into deneme (id, first_name, last_name, email, gender) values (27, 'Ceil', 'Gribben', 'cgribbenq@webeden.co.uk', 'Female');
+insert into deneme (id, first_name, last_name, email, gender) values (28, 'Keri', 'Habble', 'khabbler@ihg.com', 'Female');
+insert into deneme (id, first_name, last_name, email, gender) values (29, 'Ripley', 'Althrop', 'ralthrops@friendfeed.com', 'Male');
+insert into deneme (id, first_name, last_name, email, gender) values (30, 'Miles', 'Stollsteimer', 'mstollsteimert@dot.gov', 'Male');
+insert into deneme (id, first_name, last_name, email, gender) values (31, 'Jillie', 'Hover', 'jhoveru@weibo.com', 'Female');
+insert into deneme (id, first_name, last_name, email, gender) values (32, 'Archer', 'Padefield', 'apadefieldv@de.vu', 'Male');
+insert into deneme (id, first_name, last_name, email, gender) values (33, 'Dennis', 'Pally', 'dpallyw@jugem.jp', 'Male');
+insert into deneme (id, first_name, last_name, email, gender) values (34, 'Stacee', 'Spittles', 'sspittlesx@mac.com', 'Male');
+insert into deneme (id, first_name, last_name, email, gender) values (35, 'Conni', 'Lorkin', 'clorkiny@shop-pro.jp', 'Female');
+insert into deneme (id, first_name, last_name, email, gender) values (36, 'Powell', 'Hammelberg', 'phammelbergz@jiathis.com', 'Male');
+insert into deneme (id, first_name, last_name, email, gender) values (37, 'Helen-elizabeth', 'McJarrow', 'hmcjarrow10@guardian.co.uk', 'Female');
+insert into deneme (id, first_name, last_name, email, gender) values (38, 'Angelita', 'Callan', 'acallan11@abc.net.au', 'Female');
+insert into deneme (id, first_name, last_name, email, gender) values (39, 'Nari', 'Loudon', 'nloudon12@chicagotribune.com', 'Female');
+insert into deneme (id, first_name, last_name, email, gender) values (40, 'Julian', 'Duffield', 'jduffield13@miibeian.gov.cn', 'Male');
+insert into deneme (id, first_name, last_name, email, gender) values (41, 'Mellisent', 'Oak', 'moak14@hexun.com', 'Female');
+insert into deneme (id, first_name, last_name, email, gender) values (42, 'Ransom', 'Aspenlon', 'raspenlon15@mapy.cz', 'Male');
+insert into deneme (id, first_name, last_name, email, gender) values (43, 'Artair', 'Hearns', 'ahearns16@gizmodo.com', 'Agender');
+insert into deneme (id, first_name, last_name, email, gender) values (44, 'Eli', 'Vedikhov', 'evedikhov17@istockphoto.com', 'Male');
+insert into deneme (id, first_name, last_name, email, gender) values (45, 'Rosita', 'Livesay', 'rlivesay18@huffingtonpost.com', 'Female');
+insert into deneme (id, first_name, last_name, email, gender) values (46, 'Carita', 'Dryburgh', 'cdryburgh19@google.de', 'Female');
+insert into deneme (id, first_name, last_name, email, gender) values (47, 'Kipp', 'Mattocks', 'kmattocks1a@yandex.ru', 'Male');
+insert into deneme (id, first_name, last_name, email, gender) values (48, 'Gib', 'Cubbinelli', 'gcubbinelli1b@yellowpages.com', 'Male');
+insert into deneme (id, first_name, last_name, email, gender) values (49, 'Olive', 'Jellyman', 'ojellyman1c@themeforest.net', 'Female');
+insert into deneme (id, first_name, last_name, email, gender) values (50, 'Cassondra', 'Fever', 'cfever1d@google.co.jp', 'Female');
+
+
